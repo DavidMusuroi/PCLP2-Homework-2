@@ -1,3 +1,5 @@
+This is the link to the homework's details : https://gitlab.cs.pub.ro/iocla/tema-2-2025
+
 Task1 - Numbers
 
 Cu registrul ecx iterez actualizez offset-ul elementelor vectorului initial,
